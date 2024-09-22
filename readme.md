@@ -9,3 +9,6 @@
 3. git branch - отображение веток
 4. git brach [name] -создаёт ветку с указанным именем
 5. git checkout [name] - переключение на указанную ветку
+6. git pull [rep_link] [branch_name]
+7. git merge
+8. git branch -d [name]
